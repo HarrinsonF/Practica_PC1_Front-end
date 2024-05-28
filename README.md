@@ -1,4 +1,4 @@
-# Semana01Angular
+# PracticaAngular (*Alumno: Harrinson York Angel Flores Bernuy* - Grupo 5)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.1.
 
